@@ -12,8 +12,7 @@ The objectives as part of this project are:
   
 <h1>AR Tag Detection using Fast Fourier Transforms</h1>
 <p float="left">
-<img src="https://github.com/jayesh68/LS-TLS-and-RANSAC/blob/main/Ball_travel_10fps.gif" width="400" height="400" />
-<img src="https://github.com/jayesh68/LS-TLS-and-RANSAC/blob/main/Ball_travel_2_updated.gif" width="400" height="400" />
+<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/FFT.png"/>
 </p>
   
 
