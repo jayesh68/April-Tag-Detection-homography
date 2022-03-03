@@ -22,7 +22,7 @@ The objectives as part of this project are:
 <img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Decode3.png" width="500" height="400"/>
 </p>
 
-### Superimposition of Image on AR Tag
+<h1>Image Superimposition on AR Tag</h1>
 <p float="left">
 <img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Image_Superimpose.png"/>
 </p>
