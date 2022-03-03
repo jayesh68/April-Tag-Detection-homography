@@ -26,3 +26,8 @@ The objectives as part of this project are:
 <p align="center">
 <img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Image_Superimpose.png"/>
 </p>
+
+<h1>Cube Projection on AR Tag</h1>
+<p align="center">
+<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/cube_projection.png"/>
+</p>
