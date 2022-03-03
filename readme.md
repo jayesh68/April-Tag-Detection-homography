@@ -31,3 +31,9 @@ The objectives as part of this project are:
 <p align="center">
 <img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/cube_projection.png"/>
 </p>
+
+<h1>Links to view the projects result</h1>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch v=SA7bflkFi0U&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&ab_channel=jayeshjayashankar)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=UDg53AOl1KM&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&index=12&ab_channel=jayeshjayashankar)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=4Z0ZrIGMgjY&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&index=7&ab_channel=jayeshjayashankar)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=r4SJF200bf0&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&index=9&ab_channel=jayeshjayashankar)
