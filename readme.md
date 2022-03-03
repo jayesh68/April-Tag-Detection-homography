@@ -33,7 +33,7 @@ The objectives as part of this project are:
 </p>
 
 <h1>Links to view the projects result</h1>
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch v=SA7bflkFi0U&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&ab_channel=jayeshjayashankar)
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=UDg53AOl1KM&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&index=12&ab_channel=jayeshjayashankar)
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=4Z0ZrIGMgjY&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&index=7&ab_channel=jayeshjayashankar)
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=r4SJF200bf0&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&index=9&ab_channel=jayeshjayashankar)
+[![Single AR Tag detection](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch v=SA7bflkFi0U&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&ab_channel=jayeshjayashankar)
+[![Multiple AR Tag Detction](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=UDg53AOl1KM&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&index=12&ab_channel=jayeshjayashankar)
+[![Image Superpositioning](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=4Z0ZrIGMgjY&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&index=7&ab_channel=jayeshjayashankar)
+[![Cube Projection](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=r4SJF200bf0&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&index=9&ab_channel=jayeshjayashankar)
