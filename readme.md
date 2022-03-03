@@ -34,8 +34,8 @@ The objectives as part of this project are:
 
 <h1>Links to view the projects result</h1>
 <ul>
-<li>![alt text](https://www.youtube.com/watch v=SA7bflkFi0U&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&ab_channel=jayeshjayashankar "Logo Title Text 1")</li>
-<li>![alt text](https://www.youtube.com/watch v=SA7bflkFi0U&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&ab_channel=jayeshjayashankar "Logo Title Text 1")</li>
-<li>![alt text](https://www.youtube.com/watch v=SA7bflkFi0U&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&ab_channel=jayeshjayashankar "Logo Title Text 1")</li>
-<li>![alt text](https://www.youtube.com/watch v=SA7bflkFi0U&list=PLxmGF8eoguN0t6IofT3FjswOVXk46ae_7&ab_channel=jayeshjayashankar "Logo Title Text 1")</li>
+<li>Single Tag Decoding: https://youtu.be/4_-DOJBasYU</li>
+<li>Decoding of Multiple Tags: https://youtu.be/SA7bflkFi0U</li>
+<li>Image Superimposition: https://youtu.be/4Z0ZrIGMgjY</li>
+<li>Cube Projection: https://youtu.be/U9LJzfw6ez8</li>
 </ul>
