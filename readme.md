@@ -23,6 +23,6 @@ The objectives as part of this project are:
 </p>
 
 <h1>Image Superimposition on AR Tag</h1>
-<p float="center">
+<p align="center">
 <img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Image_Superimpose.png"/>
 </p>
