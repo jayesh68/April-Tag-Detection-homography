@@ -18,7 +18,7 @@ The objectives as part of this project are:
 
 <h1>AR Tag Detection using contour extraction and homography</h1>
 <p float="left">
-<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Decode2.png" width="400" height="400" />
-<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Decode3.png" width="400" height="400"/>
+<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Decode2.png" width="500" height="400" />
+<img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/Decode3.png" width="500" height="400"/>
 </p>
 
