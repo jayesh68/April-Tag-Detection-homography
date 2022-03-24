@@ -32,7 +32,7 @@ The objectives as part of this project are:
 <img src="https://github.com/jayesh68/April-Tag-Detection-homography/blob/main/cube_projection.png"/>
 </p>
 
-<h1>Links to view the projects result</h1>
+<h1>Links to view the project results</h1>
 <ul>
 <li>Single Tag Decoding: https://youtu.be/4_-DOJBasYU</li>
 <li>Decoding of Multiple Tags: https://youtu.be/SA7bflkFi0U</li>
